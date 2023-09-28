@@ -1,0 +1,6 @@
+# python version
+python==3.8.16
+
+# main libraries
+numpy==1.23.4
+torch==1.13.1
